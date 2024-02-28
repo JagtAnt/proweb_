@@ -42,6 +42,8 @@ Finalmente, para crear las 3 ramas, aunque la rama main ya viene creada por defe
 
 Realizado por Jose A Gomez, CI:27.225.837 email: jgomeztadino@gmail.com (Progamacion Web UMC)
 
+Link del proyecto subido a: https://jagtant.github.io/proweb_/
+
 
 
 
